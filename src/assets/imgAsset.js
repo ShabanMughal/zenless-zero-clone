@@ -232,7 +232,7 @@ export const reels = [
     reel: reel2,
     name: "Jane",
     occup: "Member of the Gentle House",
-    char: `Jane is refreshing addition to the <em>Zenless Zone Zero</em> roaster, perfectfor players who enjoy
+    char: `Jane is refreshing addition to the Zenless Zone Zero roaster, perfectfor players who enjoy
     of fun. If you like hight-energy, fast characters who dont take things too seriously but are serious
     when it counts, Jane could be a favorite!`,
     edit: "thunder senpai",
